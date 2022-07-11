@@ -1,7 +1,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Muhammed Muneef M</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> I'm Muhammed Muneef M</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
 
@@ -15,7 +15,7 @@
 
 
 ## 🙋‍♂️ About Me
-<img src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif" width="300" height="300" align="right" style="border-radius:10%">
+<img alt="coding" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif" width="300" height="280" align="right" style="border-radius:10%">
 
 - 🔭 I’m currently working on **[ My College site ]**
 
@@ -28,10 +28,12 @@
 - 📫 How to reach me **Muneef7202@outlook.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
-<br><b><br>
+<br><b><br><b><br><b><br>
+<div align="center">
+
 ## 🚀 Languages and Tools:
 <br>
-<p align="left"> 
+<p align="center"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -49,9 +51,13 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Redux badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![vs code badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+[![stack overflow badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
+[![chrome badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](#)
 <br> 
 <br/>
-<center>
+
 <p align="center">
     <a href="https://github.com/Muneef-Nk/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneef-Nk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -88,5 +94,5 @@
 <a href = "https://www.linkedin.com/in/muneef-nk/"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
 </p>
 
-</center>
+
 
