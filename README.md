@@ -94,9 +94,9 @@
 
 <a href = "https://www.linkedin.com/in/muneef-nk/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Muneef_Nk"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "instagram.com/muneef_nk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/muneef-nk/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/muneef-nk/"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
+<a href = "https://www.instagram.com/muneef_nk/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/muneefnk/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "muneef7202@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
 </p>
 
 
