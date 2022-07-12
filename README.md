@@ -13,9 +13,8 @@
 <br><br>
 
 
-
 ## 🙋‍♂️ About Me
-<img alt="coding" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif" width="300" height="280" align="right" style="border-radius:10%">
+<img alt="coding" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif" width="400" height="290" align="right">
 
 - 🔭 I’m currently working on **[ My College site ]**
 
@@ -30,6 +29,8 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 <br><b><br><b><br><b><br>
 <div align="center">
+<br>
+
 
 ## 🚀 Languages and Tools:
 <br>
@@ -60,18 +61,22 @@
 
 <p align="center">
     <a href="https://github.com/Muneef-Nk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneef-Nk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneef-Nk&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
 <br>
 
+
+
+
 ## 📊 My Github Stats
 <br>
-    <a href="https://github.com/Muneef-Nk/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muneef-Nk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br>
-    <br>
-  <a href="https://github.com/Muneef-Nk/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneef-Nk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+   ![Muneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneef-nk&theme=radical&show_icons=true&bg_color=060A0CD0)
+   
+    
+  <a href="https://github.com/Muneef-Nk/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneef-Nk&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0" /></a>
   <br><br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -79,7 +84,7 @@
 <br>
 <br>
 
-<a href="https://github.com/Muneef-Nk/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muneef-Nk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Muneef-Nk/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muneef-Nk&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
