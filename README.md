@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://muneef.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](muneef-nk.github.io/My-site/)**
 
 - 📫 How to reach me **Muneef7202@outlook.com**
 
