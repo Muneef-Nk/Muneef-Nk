@@ -27,8 +27,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://www.liblogo.com/img-logo/an8843ae6c-android-studio-logo-android-studio-alt-macos-icon-in-macos-big-sur.png" alt="postman" width="40" height="40"/>  
-  <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png" alt="postman" width="40" height="40"/>
+  <img src="https://www.liblogo.com/img-logo/an8843ae6c-android-studio-logo-android-studio-alt-macos-icon-in-macos-big-sur.png"  width="50" height="50"/>  
+  <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"  width="50" height="50"/>
   
  
 </p>
