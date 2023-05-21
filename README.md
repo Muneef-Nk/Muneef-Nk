@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammed Muneef M</h1>
 <h3 align="center">A passionate flutter developer.</h3>
+<br><br>
 
-<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+ <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
+
  
-- 🔭 I’m currently working on [----]([])
+<!-- - 🔭 I’m currently working on [----]() -->
 
-- 🌱 I’m currently learning **flutter development**
+- 👨‍💻 As a self-taught Flutter Developer with a Bachelor's degree in Computer Science. 
+ I am passionate about creating high quality mobile applications and always seeking new opportunities to learn and grow in the field of mobile development
+ 
+ 
+<!-- - 🌱 I’m currently learning **flutter development** -->
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **Github** 
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Muneef-Nk?tab=repositories) 
 
 - 💬 Ask me about **Flutter, Dart, C, Java, SQL, API, Hive db, Sqflite, Firebase, GIT,**
 
