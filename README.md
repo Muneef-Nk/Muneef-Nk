@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muneefnk" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/826/146/png-transparent-social-media-computer-icons-linkedin-social-network-social-media-text-trademark-logo-thumbnail.png" alt="muneefnk" height="30" width="40" /></a>
-<a href="https://instagram.com/muneef_nk" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/796/55/png-transparent-instagram-logo-computer-icons-insta-logo-rectangle-sticker-circle-thumbnail.png" alt="muneef_nk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muneefnk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="muneefnk" height="50" width="50" /></a>
+<a href="https://instagram.com/muneef_nk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="muneef_nk" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
