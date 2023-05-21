@@ -36,13 +36,8 @@
 <p align="left"> 
   <img src="https://www.liblogo.com/img-logo/an8843ae6c-android-studio-logo-android-studio-alt-macos-icon-in-macos-big-sur.png"  width="50" height="50"/>  
   <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"  width="50" height="50"/>
-  
- 
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneef-nk&show_icons=true&locale=en&layout=compact" alt="muneef-nk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneef-nk&show_icons=true&locale=en" alt="muneef-nk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneef-nk&" alt="muneef-nk" /></p>
+<!-- ![muneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneef-nk&show_icons=true&theme=radical) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneef-nk&show_icons=true&locale=en&layout=compact&theme=radical" alt="muneef-nk" /></p>
+<!-- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muneef-nk&theme=radical" alt="muneef-nk"/><p/> -->
