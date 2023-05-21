@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [Github]([https://muneef-nk.github.io/site/](https://github.com/Muneef-Nk?tab=repositories))
+- 👨‍💻 All of my projects are available at **Github** 
 
 - 💬 Ask me about **Flutter, Dart, C, Java, SQL, API, Hive db, Sqflite, Firebase, GIT,**
 
