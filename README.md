@@ -35,7 +35,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://www.liblogo.com/img-logo/an8843ae6c-android-studio-logo-android-studio-alt-macos-icon-in-macos-big-sur.png"  width="50" height="50"/>  
-  <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"  width="50" height="50"/>
+  <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"  width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>
+  <img src="https://e7.pngegg.com/pngimages/482/922/png-clipart-application-programming-interface-logo-computer-programming-api-icon-text-logo.png"  width="50" height="50"/>
 </p>
 
 <!-- ![muneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneef-nk&show_icons=true&theme=radical) -->
