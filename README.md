@@ -29,18 +29,26 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muneefnk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="muneefnk" height="50" width="50" /></a>
-<a href="https://instagram.com/muneef_nk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="muneef_nk" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/muneefnk" target="blank">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="muneefnk" height="40" width="40" /></a>&nbsp
+<a href="https://instagram.com/muneef_nk" target="blank">
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="muneef_nk" height="40" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://www.liblogo.com/img-logo/an8843ae6c-android-studio-logo-android-studio-alt-macos-icon-in-macos-big-sur.png"  width="50" height="50"/>  
-  <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.png"  width="50" height="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>
-  <img src="https://e7.pngegg.com/pngimages/482/922/png-clipart-application-programming-interface-logo-computer-programming-api-icon-text-logo.png"  width="50" height="50"/>
+<p align="left">
+  <img src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png"  width="45" height="45"/>  &nbsp
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png"  width="45" height="45"/> &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"  width="50" height="50"/> &nbsp
+  <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/1a1b169f-aba8-4301-b172-a873e91f3849"  width="40" height="50"/> &nbsp
+   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/1aa5576a-92ed-4f88-864a-d519ff0704ac" width="50" height="50"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>&nbsp
+  <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/d509a27e-294e-46db-9398-f5a97b16493e" width="50" height="50"/>&nbsp
+  <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/8aff04d3-4dcc-4321-8637-528d970d280a" width="50"height="50"/>
 </p>
 
 <!-- ![muneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneef-nk&show_icons=true&theme=radical) -->
