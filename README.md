@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Flutter, Dart, C, Java, SQL, API, Hive db, Sqflite, Firebase, GIT,**
 
-- 📫 How to reach me **md.muneefnk@gmail.com**
+- 📫 How to reach me **Check social links below.**
 
 - 📄 Know about my experiences [1+](1+)
 
