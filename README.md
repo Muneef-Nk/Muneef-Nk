@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Muneef-Nk?tab=repositories) 
 
-- 💬 Ask me about **Flutter, Dart, C, Java, SQL, API, Hive db, Sqflite, Firebase, GIT,**
+- 💬 Ask me about **Flutter, Dart, C, API, Hive, Sqflite, Firebase, GIT, Provider, Getx**
 
 - 📫 How to reach me **Check social links below.**
 
