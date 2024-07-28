@@ -11,8 +11,7 @@
  
 <!-- - 🔭 I’m currently working on [----]() -->
 
-- 👨‍💻 As a self-taught Flutter Developer with a Bachelor's degree in Computer Science. 
- I am passionate about creating high quality mobile applications and always seeking new opportunities to learn and grow in the field of mobile development
+- 👨‍💻 I'm a passionate and dedicated Flutter developer with a strong foundation in creating engaging and user-friendly mobile applications. Exploring the latest technology in Mobile App Development. I deeply understand Flutter's widget customization, state management, and API integration, ensuring that the apps I build are visually appealing and highly functional. Let's collaborate and bring your mobile app vision to life.
  
  
 <!-- - 🌱 I’m currently learning **flutter development** -->
