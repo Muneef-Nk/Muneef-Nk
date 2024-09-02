@@ -5,28 +5,30 @@
 <br><br>
 
 
- <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+ <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/1e7f45c4bef99313eef84d42117d20f59e424a5edd89295c2203b126aff9669b/68747470733a2f2f692e70696e696d672e636f6d2f353634782f32312f33612f36312f32313361363164633863333038656634663232373739643732613231346565322e6a7067">
 
 
  
 <!-- - 🔭 I’m currently working on [----]() -->
 
-- 👨‍💻 I'm a passionate and dedicated Flutter developer with a strong foundation in creating engaging and user-friendly mobile applications. Exploring the latest technology in Mobile App Development. I deeply understand Flutter's widget customization, state management, and API integration, ensuring that the apps I build are visually appealing and highly functional. Let's collaborate and bring your mobile app vision to life.
+<!--- 👨‍💻 I'm a passionate and dedicated Flutter developer with a strong foundation in creating engaging and user-friendly mobile applications. Exploring the latest technology in Mobile App Development. I deeply understand Flutter's widget customization, state management, and API integration, ensuring that the apps I build are visually appealing and highly functional. Let's collaborate and bring your mobile app vision to life. -->
  
  
 <!-- - 🌱 I’m currently learning **flutter development** -->
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<!--- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Muneef-Nk?tab=repositories) 
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Muneef-Nk?tab=repositories) -->
 
-- 💬 Ask me about **Flutter, Dart, C, API, Hive, Sqflite, Firebase, GIT, Provider, Getx**
+- 👨‍💻 **I’m currently working as a Flutter Developer**
+- 💬 Ask me about Mobile Application Development
+- 📫 How to reach me md.muneefnk@gmail.com
 
-- 📫 How to reach me **Check social links below.**
+<!--- 📫 How to reach me **Check social links below.**
 
 - 📄 Know about my experiences [1+](1+)
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go to the GYM very often.**-->
 
 
 <h3 align="left">Connect with me:</h3>
