@@ -50,6 +50,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>&nbsp
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/d509a27e-294e-46db-9398-f5a97b16493e" width="50" height="50"/>&nbsp
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/8aff04d3-4dcc-4321-8637-528d970d280a" width="50"height="50"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"height="50"/>
 </p>
 
 <!-- ![muneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneef-nk&show_icons=true&theme=radical) -->
