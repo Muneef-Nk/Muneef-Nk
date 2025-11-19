@@ -43,15 +43,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png"  width="45" height="45"/>  &nbsp
-  <!-- <img src="https://code.visualstudio.com/assets/images/code-stable.png"  width="45" height="45"/> &nbsp -->
-  <img src="[https://code.visualstudio.com/assets/images/code-stable.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png)"  width="45" height="45"/> &nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"  width="50" height="50"/> &nbsp
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png](https://pluspng.com/logo-img/ko117kot3cd7-kotlin-logo-kotlin-logo-png-transparent-amp-svg-vector-freebie-supply.png)"  width="50" height="50"/> &nbsp
+  <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"  width="50" height="50"/>  &nbsp
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"  width="45" height="45"/> &nbsp
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"  width="45" height="45"/> &nbsp
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/1a1b169f-aba8-4301-b172-a873e91f3849"  width="40" height="50"/> &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"  width="50" height="50"/> &nbsp
    <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/1aa5576a-92ed-4f88-864a-d519ff0704ac" width="50" height="50"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>&nbsp
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/d509a27e-294e-46db-9398-f5a97b16493e" width="50" height="50"/>&nbsp
-  <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/8aff04d3-4dcc-4321-8637-528d970d280a" width="50"height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"height="50"/>
 </p>
 
