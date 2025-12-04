@@ -9,22 +9,12 @@
 
 
 
-<!--- 👨‍💻 I'm a passionate and dedicated Flutter developer with a strong foundation in creating engaging and user-friendly mobile applications. Exploring the latest technology in Mobile App Development. I deeply understand Flutter's widget customization, state management, and API integration, ensuring that the apps I build are visually appealing and highly functional. Let's collaborate and bring your mobile app vision to life. -->
- 
-
-
-
-
 - 👨‍💻 **I’m currently working as a Android Developer**
 - 💬 **Ask me about Mobile Application Development**
 - 💼 **Open to freelance & full-time opportunities**
+- 📫 **How to reach me md.muneefnk@gmail.com**
 
 
-<!--- 📫 How to reach me **Check social links below.**
-
-- 📄 Know about my experiences [1+](1+)
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**-->
 
 
 <h3 align="left">Connect with me:</h3>
