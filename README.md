@@ -26,7 +26,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/1a1b169f-aba8-4301-b172-a873e91f3849"  width="40" height="50"/> &nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/640px-Dart_logo.png"  width="50" height="50"/> &nbsp
@@ -39,6 +39,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"  width="50" height="50"/>&nbsp
   <img src="https://github.com/Muneef-Nk/Muneef-Nk/assets/92105703/d509a27e-294e-46db-9398-f5a97b16493e" width="50" height="50"/>&nbsp
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"height="50"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" width="50"height="50"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" width="50"height="50"/>
+  <img src="https://assets.berca.co.id/wp-content/uploads/2021/05/09165425/postgresql-logo.png" width="50"height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp" width="50"height="50"/>
 </p>
 
 
