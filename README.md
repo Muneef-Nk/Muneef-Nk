@@ -1,4 +1,3 @@
-<!-- <img align="center" alt="coding" src="https://user-images.githubusercontent.com/100861026/251391595-d306b4f3-6312-449b-8179-fc5af1556163.gif"> -->
  
 <h1 align="center">Hi 👋, I'm Muhammed Muneef M</h1>
 <h3 align="center">A passionate App Developer (Flutter & Android)</h3>
